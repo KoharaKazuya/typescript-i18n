@@ -1,0 +1,18 @@
+{
+  "name": "@koharakazuya/typescript-i18n",
+  "version": "0.1.0",
+  "description": "国際化対応 (i18n) するとき TypeScript においてシンプルかつ便利な方法を提供する",
+  "keywords": [
+    "i18n",
+    "typescript"
+  ],
+  "license": "MIT",
+  "repository": "github:KoharaKazuya/typescript-i18n",
+  "author": "KoharaKazuya",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
+}
